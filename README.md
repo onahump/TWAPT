@@ -1,4 +1,4 @@
-![](https://github.com/MoisesTapia/TWAPT/blob/deploy/TWAPT.png)
+![](https://github.com/MoisesTapia/TWAPT/blob/deploy/TWAPT.png =250x)
 #### Trainig| Web Application Penetration Testing
 
 ![docker](https://img.shields.io/badge/Docker-v19.03.12-blue?style=plastic&logo=docker)
@@ -67,7 +67,5 @@ $
 Once you see the preceeding message Railsgoat is running on your localhost on port 3000.
 
 
-## Contributors
 
-Design: @onahump / https://github.com/onahump
 
