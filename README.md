@@ -1,4 +1,4 @@
-![](https://github.com/MoisesTapia/TWAPT/blob/deploy/TWAPT.png =250x)
+![](https://github.com/MoisesTapia/TWAPT/blob/deploy/TWAPT.png)
 #### Trainig| Web Application Penetration Testing
 
 ![docker](https://img.shields.io/badge/Docker-v19.03.12-blue?style=plastic&logo=docker)
